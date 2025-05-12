@@ -1,37 +1,20 @@
 ## Flutter Trip Application Design - Day 2
 
-```dart
-class Day2 extends Flutter100DaysOfCode {
-  video() {
-    return {
-      "title": "Flutter Trip Application Design",
-      "description": "Let's work with PageView and add some animation.",
-      "day": 2,
-      "videoLink": "https://youtu.be/uqm6U5_bcH0"
-    }
-  }
-}
-```
+##-- Pagina inicial --
 
-[Youtube Video](https://youtu.be/uqm6U5_bcH0)
-<br><br>
+![image](https://github.com/user-attachments/assets/025227ae-88f2-44c9-8803-f4a934f50885)
 
-## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
+##-- Pagina 2 --
 
+![image](https://github.com/user-attachments/assets/6a528a2a-7e4f-4f95-aa30-3d357024fa12)
 
-## Development Setup
-Clone the repository and run the following commands:
-```
-flutter pub get
-flutter run
-```
+##-- Pagina 3 --
 
-## ScreenShot
+![image](https://github.com/user-attachments/assets/0cd4c94b-0ec0-4a12-b170-3465192f24c9)
 
-<img src="assets/screenshot/one.png" height="500em" /><img src="assets/screenshot/two.png" height="500em" /><img src="assets/screenshot/three.png" height="500em" />
+##-- Pagina 4 --
 
-## Links
+![image](https://github.com/user-attachments/assets/5803bf3a-ed38-47d7-bf90-a6331df910af)
 
 * [Website](https://afgprogrammer.com)
 * [Youtube channel](https://youtube.com/afgprogrammer)
